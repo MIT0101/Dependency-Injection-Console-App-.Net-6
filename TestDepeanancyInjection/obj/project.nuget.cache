@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZpQ2ssAUr1Gf2CZ71fWGqhz8x/+ep+JApT4rzvbGLip9O8ApD7WCDw28GZARW3Z3gI7YT3elyHfUat9S6pC6Sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\M_IT_01\\source\\repos\\TestDepeanancyInjection\\TestDepeanancyInjection\\TestDepeanancyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\M_IT_01\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\M_IT_01\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
